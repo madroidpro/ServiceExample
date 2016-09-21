@@ -42,6 +42,7 @@ public class MyService extends Service {
         return Service.START_STICKY;
     }
 
+
     public String myNumber(){
         return result;
     }
